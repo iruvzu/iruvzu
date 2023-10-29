@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=#FFBFBF&height=100&section=header&text=&fontSize=40&fontColor=#FFFFFF" />
+<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=100:FFBFBF&height=100&section=header&text=&fontSize=40&fontColor=#FFFFFF" />
 
 ### Hi there 👋
 
