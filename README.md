@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=flat-squre&logo=microsoftsqlserver&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-squre&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/sqlite-003B57?style=flat-squre&logo=sqlite&logoColor=white">
-<img src="https://img.shields.io/badge/flutter-02569B?style=flat-squre&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/mysql-#4479A1?style=flat-squre&logo=mysql&logoColor=white">
 
 <!--✔️Frond-end
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"><img src="https://img.shields.io/badge/Css-1572B6?style=for-the-badge&logo=Css&logoColor=white"><img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=purple"><img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white">
