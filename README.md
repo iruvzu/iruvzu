@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### ✔️Back-end
 <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=flat-squre&logo=microsoftsqlserver&logoColor=white">
-<img src="https://img.shields.io/badge/flutter-02569B?style=flat-squre&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/oracle-F80000?style=flat-squre&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/dart-0175C2?style=flat-squre&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/flutter-02569B?style=flat-squre&logo=flutter&logoColor=white">
 
