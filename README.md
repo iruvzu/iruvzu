@@ -15,12 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-✔️Frond-end
+### ✔️Frond-end
 
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-squre&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-squre&logo=javascript&logoColor=white"/>
 <img src="https://img.shields.io/badge/html5-E34F26?style=flat-squre&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-squre&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/dart-0175C2?style=flat-squre&logo=dart&logoColor=white">
+<img src="https://img.shields.io/badge/flutter-02569B?style=flat-squre&logo=flutter&logoColor=white">
+
+### ✔️Back-end
+<img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=flat-squre&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/flutter-02569B?style=flat-squre&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/dart-0175C2?style=flat-squre&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/flutter-02569B?style=flat-squre&logo=flutter&logoColor=white">
 
