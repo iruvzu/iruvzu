@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/css3-1572B6?style=flat-squre&logo=css3&logoColor=white">
 
 ### ⚪️ Back-end
+
 <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=flat-squre&logo=microsoftsqlserver&logoColor=white">
 <img src="https://img.shields.io/badge/oracle-F80000?style=flat-squre&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/sqlite-003B57?style=flat-squre&logo=sqlite&logoColor=white">
@@ -35,6 +36,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-squre&logo=firebase&logoColor=white">
 
 ### ⚪️ Moblie
+
 <img src="https://img.shields.io/badge/dart-0175C2?style=flat-squre&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/flutter-02569B?style=flat-squre&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/android-3DDC84?style=flat-squre&logo=android&logoColor=white">
