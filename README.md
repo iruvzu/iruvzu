@@ -36,4 +36,9 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/dart-0175C2?style=flat-squre&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/flutter-02569B?style=flat-squre&logo=flutter&logoColor=white">
 
+
+### ⚪️ Cooperation
+<img src="https://img.shields.io/badge/notion-000000?style=flat-squre&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/microsoftteams-6264A7?style=flat-squre&logo=microsoftteams&logoColor=white">
+
 </div>
