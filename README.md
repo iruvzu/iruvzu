@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 ### ⚪️ Moblie
 <img src="https://img.shields.io/badge/dart-0175C2?style=flat-squre&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/flutter-02569B?style=flat-squre&logo=flutter&logoColor=white">
+<img src="https://img.shields.io/badge/android-3DDC84?style=flat-squre&logo=android&logoColor=white">
 
 
 ### ⚪️ Cooperation
