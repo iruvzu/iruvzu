@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <!-- CSS -->
 <img src="https://img.shields.io/badge/Css3-1572B6?style=style=flat&logo=css3&logoColor=white">
 
+<div align=center>
+
 ### ✔️Frond-end
 
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-squre&logo=jquery&logoColor=white">
@@ -36,3 +38,5 @@ Here are some ideas to get you started:
 ### ✔️Moblie
 <img src="https://img.shields.io/badge/dart-0175C2?style=flat-squre&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/flutter-02569B?style=flat-squre&logo=flutter&logoColor=white">
+
+</div>
