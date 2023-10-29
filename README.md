@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ### ✔️Frond-end
 
-<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-squre&logo=jquery&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-squre&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-squre&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css3-1572B6?style=flat-squre&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/jquery-0769AD?style=style=flat-squre&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=style=flat-squre&logo=javascript&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-E34F26?style=style=flat-squre&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css3-1572B6?style=style=flat-squre&logo=css3&logoColor=white">
 
 ### ✔️Back-end
 <img src="https://img.shields.io/badge/microsoftsqlserver-CC2927?style=flat-squre&logo=microsoftsqlserver&logoColor=white">
