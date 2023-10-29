@@ -15,12 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- HTML -->
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=style=flat&logo=html5&logoColor=white">
-<!-- CSS -->
-<img src="https://img.shields.io/badge/Css3-1572B6?style=style=flat&logo=css3&logoColor=white">
-
-<div align=center>
+<div align=left>
 
 ### ✔️Frond-end
 
