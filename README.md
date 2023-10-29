@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Egg&color=FFBFBF&height=100&section=header&text=Sunny's+Github!&fontColor=FFF8FA&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=Egg&animation=fadeIn&color=FFBFBF&height=100&section=header&text=Sunny's+Github!&fontColor=FFF8FA&fontSize=30" />
 
 ### Hi there 👋
 
