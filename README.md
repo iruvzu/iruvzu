@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align=left>
 
-### 🔧 Frond-end
+### ⚪️ Frond-end
 
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-squre&logo=jquery&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-squre&logo=javascript&logoColor=white">
