@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 jquery
-<img src="https://img.shields.io/badge/jquery-#0769AD?style=flat&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/jquery-#0769AD?style=flat&logo=jQuery&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 ### ✔️Frond-end
