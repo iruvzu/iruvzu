@@ -45,5 +45,5 @@ Here are some ideas to get you started:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=FFBFBF&height=100&section=footer&text=Sunny's+Github!&fontColor=FFF8FA&fontSize=30" />
+<img src="https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=FFBFBF&height=100&section=footer" />
 
